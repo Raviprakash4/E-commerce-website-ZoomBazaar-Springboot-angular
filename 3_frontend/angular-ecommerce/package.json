@@ -23,6 +23,7 @@
     "@okta/okta-angular": "^6.2.0",
     "@okta/okta-auth-js": "^7.4.1",
     "@okta/okta-signin-widget": "^6.2.0",
+    "angular-ecommerce": "file:",
     "bootstrap": "^5.2.0",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
